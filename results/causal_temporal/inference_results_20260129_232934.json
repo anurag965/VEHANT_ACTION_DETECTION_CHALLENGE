@@ -1,0 +1,437 @@
+{
+  "timestamp": "2026-01-29T23:29:38.683223",
+  "video": "video.avi",
+  "threshold": 0.3,
+  "output_video": "results/causal_temporal\\vehant_inference_viz_20260129_232934.mp4",
+  "results": [
+    {
+      "frame_idx": 0,
+      "class_id": 1,
+      "class_name": "fight",
+      "confidence": 0.4070247709751129,
+      "probabilities": {
+        "negative": 0.3867240846157074,
+        "fight": 0.4070247709751129,
+        "collapse": 0.2062510848045349
+      }
+    },
+    {
+      "frame_idx": 1,
+      "class_id": 1,
+      "class_name": "fight",
+      "confidence": 0.4216156303882599,
+      "probabilities": {
+        "negative": 0.30405768752098083,
+        "fight": 0.4216156303882599,
+        "collapse": 0.2743266224861145
+      }
+    },
+    {
+      "frame_idx": 2,
+      "class_id": 2,
+      "class_name": "collapse",
+      "confidence": 0.4417036473751068,
+      "probabilities": {
+        "negative": 0.18403248488903046,
+        "fight": 0.3742638826370239,
+        "collapse": 0.4417036473751068
+      }
+    },
+    {
+      "frame_idx": 3,
+      "class_id": 2,
+      "class_name": "collapse",
+      "confidence": 0.5956497192382812,
+      "probabilities": {
+        "negative": 0.10805542767047882,
+        "fight": 0.29629477858543396,
+        "collapse": 0.5956497192382812
+      }
+    },
+    {
+      "frame_idx": 4,
+      "class_id": 2,
+      "class_name": "collapse",
+      "confidence": 0.6936285495758057,
+      "probabilities": {
+        "negative": 0.06381726264953613,
+        "fight": 0.24255414307117462,
+        "collapse": 0.6936285495758057
+      }
+    },
+    {
+      "frame_idx": 5,
+      "class_id": 2,
+      "class_name": "collapse",
+      "confidence": 0.791777491569519,
+      "probabilities": {
+        "negative": 0.03626738488674164,
+        "fight": 0.17195512354373932,
+        "collapse": 0.791777491569519
+      }
+    },
+    {
+      "frame_idx": 6,
+      "class_id": 2,
+      "class_name": "collapse",
+      "confidence": 0.7915579080581665,
+      "probabilities": {
+        "negative": 0.03328319266438484,
+        "fight": 0.1751587986946106,
+        "collapse": 0.7915579080581665
+      }
+    },
+    {
+      "frame_idx": 7,
+      "class_id": 2,
+      "class_name": "collapse",
+      "confidence": 0.8161546587944031,
+      "probabilities": {
+        "negative": 0.030866382643580437,
+        "fight": 0.15297898650169373,
+        "collapse": 0.8161546587944031
+      }
+    },
+    {
+      "frame_idx": 8,
+      "class_id": 2,
+      "class_name": "collapse",
+      "confidence": 0.8141398429870605,
+      "probabilities": {
+        "negative": 0.024897238239645958,
+        "fight": 0.16096296906471252,
+        "collapse": 0.8141398429870605
+      }
+    },
+    {
+      "frame_idx": 9,
+      "class_id": 2,
+      "class_name": "collapse",
+      "confidence": 0.8158577084541321,
+      "probabilities": {
+        "negative": 0.019671699032187462,
+        "fight": 0.16447065770626068,
+        "collapse": 0.8158577084541321
+      }
+    },
+    {
+      "frame_idx": 10,
+      "class_id": 2,
+      "class_name": "collapse",
+      "confidence": 0.8194037079811096,
+      "probabilities": {
+        "negative": 0.016864299774169922,
+        "fight": 0.16373202204704285,
+        "collapse": 0.8194037079811096
+      }
+    },
+    {
+      "frame_idx": 11,
+      "class_id": 2,
+      "class_name": "collapse",
+      "confidence": 0.8035248517990112,
+      "probabilities": {
+        "negative": 0.016733180731534958,
+        "fight": 0.17974208295345306,
+        "collapse": 0.8035248517990112
+      }
+    },
+    {
+      "frame_idx": 12,
+      "class_id": 2,
+      "class_name": "collapse",
+      "confidence": 0.7771860957145691,
+      "probabilities": {
+        "negative": 0.017950383946299553,
+        "fight": 0.20486344397068024,
+        "collapse": 0.7771860957145691
+      }
+    },
+    {
+      "frame_idx": 13,
+      "class_id": 2,
+      "class_name": "collapse",
+      "confidence": 0.776333212852478,
+      "probabilities": {
+        "negative": 0.020974865183234215,
+        "fight": 0.2026919424533844,
+        "collapse": 0.776333212852478
+      }
+    },
+    {
+      "frame_idx": 14,
+      "class_id": 2,
+      "class_name": "collapse",
+      "confidence": 0.786927342414856,
+      "probabilities": {
+        "negative": 0.02077298052608967,
+        "fight": 0.19229966402053833,
+        "collapse": 0.786927342414856
+      }
+    },
+    {
+      "frame_idx": 15,
+      "class_id": 2,
+      "class_name": "collapse",
+      "confidence": 0.815488338470459,
+      "probabilities": {
+        "negative": 0.017923889681696892,
+        "fight": 0.16658781468868256,
+        "collapse": 0.815488338470459
+      }
+    },
+    {
+      "frame_idx": 16,
+      "class_id": 2,
+      "class_name": "collapse",
+      "confidence": 0.8285840153694153,
+      "probabilities": {
+        "negative": 0.018262622877955437,
+        "fight": 0.15315337479114532,
+        "collapse": 0.8285840153694153
+      }
+    },
+    {
+      "frame_idx": 17,
+      "class_id": 2,
+      "class_name": "collapse",
+      "confidence": 0.8188009858131409,
+      "probabilities": {
+        "negative": 0.019711773842573166,
+        "fight": 0.16148720681667328,
+        "collapse": 0.8188009858131409
+      }
+    },
+    {
+      "frame_idx": 18,
+      "class_id": 2,
+      "class_name": "collapse",
+      "confidence": 0.7982361912727356,
+      "probabilities": {
+        "negative": 0.020756427198648453,
+        "fight": 0.18100734055042267,
+        "collapse": 0.7982361912727356
+      }
+    },
+    {
+      "frame_idx": 19,
+      "class_id": 2,
+      "class_name": "collapse",
+      "confidence": 0.841619610786438,
+      "probabilities": {
+        "negative": 0.016994424164295197,
+        "fight": 0.14138595759868622,
+        "collapse": 0.841619610786438
+      }
+    },
+    {
+      "frame_idx": 20,
+      "class_id": 2,
+      "class_name": "collapse",
+      "confidence": 0.8310669660568237,
+      "probabilities": {
+        "negative": 0.018185438588261604,
+        "fight": 0.15074758231639862,
+        "collapse": 0.8310669660568237
+      }
+    },
+    {
+      "frame_idx": 21,
+      "class_id": 2,
+      "class_name": "collapse",
+      "confidence": 0.829489529132843,
+      "probabilities": {
+        "negative": 0.019281510263681412,
+        "fight": 0.15122897922992706,
+        "collapse": 0.829489529132843
+      }
+    },
+    {
+      "frame_idx": 22,
+      "class_id": 2,
+      "class_name": "collapse",
+      "confidence": 0.8342640995979309,
+      "probabilities": {
+        "negative": 0.017469655722379684,
+        "fight": 0.1482662856578827,
+        "collapse": 0.8342640995979309
+      }
+    },
+    {
+      "frame_idx": 23,
+      "class_id": 2,
+      "class_name": "collapse",
+      "confidence": 0.8189601302146912,
+      "probabilities": {
+        "negative": 0.018538476899266243,
+        "fight": 0.16250135004520416,
+        "collapse": 0.8189601302146912
+      }
+    },
+    {
+      "frame_idx": 24,
+      "class_id": 2,
+      "class_name": "collapse",
+      "confidence": 0.7982025146484375,
+      "probabilities": {
+        "negative": 0.019569113850593567,
+        "fight": 0.18222835659980774,
+        "collapse": 0.7982025146484375
+      }
+    },
+    {
+      "frame_idx": 25,
+      "class_id": 2,
+      "class_name": "collapse",
+      "confidence": 0.8069348335266113,
+      "probabilities": {
+        "negative": 0.01847667433321476,
+        "fight": 0.17458848655223846,
+        "collapse": 0.8069348335266113
+      }
+    },
+    {
+      "frame_idx": 26,
+      "class_id": 2,
+      "class_name": "collapse",
+      "confidence": 0.8039674758911133,
+      "probabilities": {
+        "negative": 0.01895466074347496,
+        "fight": 0.17707791924476624,
+        "collapse": 0.8039674758911133
+      }
+    },
+    {
+      "frame_idx": 27,
+      "class_id": 2,
+      "class_name": "collapse",
+      "confidence": 0.8024781942367554,
+      "probabilities": {
+        "negative": 0.021312056109309196,
+        "fight": 0.17620979249477386,
+        "collapse": 0.8024781942367554
+      }
+    },
+    {
+      "frame_idx": 28,
+      "class_id": 2,
+      "class_name": "collapse",
+      "confidence": 0.8218215107917786,
+      "probabilities": {
+        "negative": 0.018415622413158417,
+        "fight": 0.1597628891468048,
+        "collapse": 0.8218215107917786
+      }
+    },
+    {
+      "frame_idx": 29,
+      "class_id": 2,
+      "class_name": "collapse",
+      "confidence": 0.8211182951927185,
+      "probabilities": {
+        "negative": 0.0172281451523304,
+        "fight": 0.1616535186767578,
+        "collapse": 0.8211182951927185
+      }
+    },
+    {
+      "frame_idx": 30,
+      "class_id": 2,
+      "class_name": "collapse",
+      "confidence": 0.8149805665016174,
+      "probabilities": {
+        "negative": 0.017584417015314102,
+        "fight": 0.167434960603714,
+        "collapse": 0.8149805665016174
+      }
+    },
+    {
+      "frame_idx": 31,
+      "class_id": 2,
+      "class_name": "collapse",
+      "confidence": 0.8174729943275452,
+      "probabilities": {
+        "negative": 0.017096977680921555,
+        "fight": 0.1654299944639206,
+        "collapse": 0.8174729943275452
+      }
+    },
+    {
+      "frame_idx": 32,
+      "class_id": 2,
+      "class_name": "collapse",
+      "confidence": 0.8309178948402405,
+      "probabilities": {
+        "negative": 0.014683246612548828,
+        "fight": 0.1543988287448883,
+        "collapse": 0.8309178948402405
+      }
+    },
+    {
+      "frame_idx": 33,
+      "class_id": 2,
+      "class_name": "collapse",
+      "confidence": 0.8195287585258484,
+      "probabilities": {
+        "negative": 0.015915920957922935,
+        "fight": 0.16455528140068054,
+        "collapse": 0.8195287585258484
+      }
+    },
+    {
+      "frame_idx": 34,
+      "class_id": 2,
+      "class_name": "collapse",
+      "confidence": 0.8273590207099915,
+      "probabilities": {
+        "negative": 0.014855927787721157,
+        "fight": 0.15778499841690063,
+        "collapse": 0.8273590207099915
+      }
+    },
+    {
+      "frame_idx": 35,
+      "class_id": 2,
+      "class_name": "collapse",
+      "confidence": 0.8186312913894653,
+      "probabilities": {
+        "negative": 0.015659494325518608,
+        "fight": 0.1657092124223709,
+        "collapse": 0.8186312913894653
+      }
+    },
+    {
+      "frame_idx": 36,
+      "class_id": 2,
+      "class_name": "collapse",
+      "confidence": 0.801334023475647,
+      "probabilities": {
+        "negative": 0.01659533381462097,
+        "fight": 0.18207061290740967,
+        "collapse": 0.801334023475647
+      }
+    },
+    {
+      "frame_idx": 37,
+      "class_id": 2,
+      "class_name": "collapse",
+      "confidence": 0.8230284452438354,
+      "probabilities": {
+        "negative": 0.015774432569742203,
+        "fight": 0.16119708120822906,
+        "collapse": 0.8230284452438354
+      }
+    },
+    {
+      "frame_idx": 38,
+      "class_id": 2,
+      "class_name": "collapse",
+      "confidence": 0.8118550181388855,
+      "probabilities": {
+        "negative": 0.016888074576854706,
+        "fight": 0.17125695943832397,
+        "collapse": 0.8118550181388855
+      }
+    }
+  ]
+}

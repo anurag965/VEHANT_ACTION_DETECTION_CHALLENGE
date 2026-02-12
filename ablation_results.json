@@ -1,0 +1,36 @@
+{
+  "timestamp": "2026-01-29T22:22:21.555372",
+  "results": {
+    "Variant 1: RGB Baseline": {
+      "accuracy": 28.57142857142857,
+      "ece": 0.19303580692836214,
+      "boundary_f1": 0.0
+    },
+    "Variant 2: + Motion Tokens": {
+      "accuracy": 28.57142857142857,
+      "ece": 0.11391252279281613,
+      "boundary_f1": 0.9047618993310659
+    },
+    "Variant 3: + Causal Attention (Full)": {
+      "accuracy": 33.33333333333333,
+      "ece": 0.5189289620944431,
+      "boundary_f1": 0.9999999945238094
+    },
+    "Variant 4: - Uncertainty": {
+      "accuracy": 33.33333333333333,
+      "ece": 0.5189289620944431,
+      "boundary_f1": 0.9999999945238094
+    },
+    "Variant 5: - Skeleton": {
+      "accuracy": 42.857142857142854,
+      "ece": 0.11384426979791552,
+      "boundary_f1": 0.9999999945238094
+    }
+  },
+  "summary": {
+    "best_variant": "Variant 5: - Skeleton",
+    "best_accuracy": 42.857142857142854,
+    "best_ece": 0.11384426979791552,
+    "best_boundary_f1": 0.9999999945238094
+  }
+}
